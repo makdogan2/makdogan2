@@ -1,16 +1,18 @@
-## Hi there 👋
+# Mehmet Akdoğan
 
-<!--
-**makdogan2/makdogan2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at TED University, Ankara. Interested in machine learning and building things end to end.
 
-Here are some ideas to get you started:
+## Projects that I'm currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[UMAY](https://github.com/makdogan2/umay)**: A bilingual Turkish–English language model built from scratch. Hand-written GPT (~10.8M params), custom BPE tokenizer in progress.
+
+**[AI Shorts Generator](https://github.com/makdogan2/ai-shorts-generator)**: Fully automated pipeline that turns scripts into ready-to-upload YouTube Shorts: TTS, stock footage, word-by-word captions, quality checks, CI. Runs the [Astro Pocket](https://www.youtube.com/@TheAstroPocket) channel.
+
+## Tools
+
+Python · PyTorch · FFmpeg · Java · C · Git
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/mehmet-akdogan)
+makdogan22@gmail.com
