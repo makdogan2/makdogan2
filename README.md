@@ -14,4 +14,4 @@ Python · PyTorch · FFmpeg · Java · C · Git
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/mehmet-akdogan) · makdogan2202@gmail.com
+[LinkedIn](https://www.linkedin.com/in/mehmet-akdogan)
