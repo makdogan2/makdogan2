@@ -4,13 +4,15 @@ Computer Engineering student at TED University, Ankara. Interested in machine le
 
 ## Projects that I'm currently working on
 
-**[UMAY](https://github.com/makdogan2/umay)**: A bilingual Turkish–English language model built from scratch. Hand-written GPT (~10.8M params), custom BPE tokenizer in progress.
+**[Arke Code](https://github.com/makdogan2/arke-code)**: A local coding assistant that runs on a single RTX 5070 Ti (Qwen3-Coder 30B-A3B through Ollama). It reads, searches and edits your project through tool calling, asking before every change, and is measured with its own eval harness: **149/164 on HumanEval** in [v0.1](https://github.com/makdogan2/arke-code/releases/tag/v0.1).
+
+**[Arke](https://github.com/makdogan2/arke)**: A bilingual Turkish–English language model built from scratch, from the tokenizer up. Hand-written GPT (13.9M params) with a byte-level BPE tokenizer (vocab 8192) trained on a 200 MB Wikipedia corpus.
 
 **[AI Shorts Generator](https://github.com/makdogan2/ai-shorts-generator)**: Fully automated pipeline that turns scripts into ready-to-upload YouTube Shorts: TTS, stock footage, word-by-word captions, quality checks, CI. Runs the [Astro Pocket](https://www.youtube.com/@TheAstroPocket) channel.
 
 ## Tools
 
-Python · PyTorch · FFmpeg · Java · C · Git
+Python · PyTorch · Ollama · FFmpeg · Java · C · Git
 
 ## Contact
 
